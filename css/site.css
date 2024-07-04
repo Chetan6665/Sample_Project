@@ -7,7 +7,9 @@
         }
         @font-face{
             font-family: "Segoe UI";
-            src: url('../fonts/segoeuil.ttf');
+            // This code is added from new_feature branch
+            // src: url('../fonts/segoeuil.ttf');
+            //Change 1
         }
         .main-container {
             height: 100%;
